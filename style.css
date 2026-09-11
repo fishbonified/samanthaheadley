@@ -1,0 +1,34 @@
+body {
+  background-image: url("https://i.pinimg.com/1200x/ac/72/18/ac72181b94902b542ee9eb3a5b76e16b.jpg");
+  background-repeat: repeat-x;
+}
+
+header1{
+  margin-left: 80px;
+  font-family: "Jacquard 24", Helvetica, sans-serif;
+  font-size: 60px;
+  color: #e17bc1;
+}
+
+p{
+  margin-bottom: 20px;
+  margin-right: 160px;
+  margin-left: 160px;
+  text-align: center;
+  color: #130f01;
+  font-family:  "Nanum Pen Script", Helvetica, sans-serif;
+  font-size: 18px;
+  background-color: #b5e5e070;
+  box-shadow : 0px 20px 0  #b5e5e070;
+}
+
+#buttons{
+  text-align: center;
+  font-family:  "Nanum Pen Script", Helvetica, sans-serif;
+  color:rgb(15, 180, 180);
+  background-color: #22998b2f;
+  font-size: 20px;
+
+
+}
+
