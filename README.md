@@ -1,2 +1,2 @@
-# samanthaheadley.github.io
+#website
 Cute about me site
